@@ -1,0 +1,10 @@
+# ninja log v5
+1	11543	1714680537417068775	/ssd2/wenyan/progressive_instantsplat/instantsplat_v1_2/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/simple_knn.o	331922458cae4325
+1	19738	1714680545613083567	/ssd2/wenyan/progressive_instantsplat/instantsplat_v1_2/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/ext.o	f0ac36c2b0bc138b
+1	45565	1714680571437131451	/ssd2/wenyan/progressive_instantsplat/instantsplat_v1_2/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/spatial.o	e95c1c74e3a3e0dd
+33	11042	1714682010509224550	/ssd2/wenyan/progressive_instantsplat/instantsplat_v1_2/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/simple_knn.o	413da4f1b4999930
+33	13556	1714682013025232694	/ssd2/wenyan/progressive_instantsplat/instantsplat_v1_2/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/ext.o	5399e9df1abae894
+33	38035	1714682037501311972	/ssd2/wenyan/progressive_instantsplat/instantsplat_v1_2/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/spatial.o	e3233202b0b20d91
+32	11367	1714682428954590267	/ssd2/wenyan/progressive_instantsplat/instantsplat_v1_2/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/simple_knn.o	d1c5c5ff3ddda1e8
+31	18903	1714682436494615035	/ssd2/wenyan/progressive_instantsplat/instantsplat_v1_2/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/ext.o	f0ac36c2b0bc138b
+32	50170	1714682467738717711	/ssd2/wenyan/progressive_instantsplat/instantsplat_v1_2/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/spatial.o	459b87501f988f44
